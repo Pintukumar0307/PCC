@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PCC/static/css/main.92242592.css",
+    "main.js": "/PCC/static/js/main.2b87b2cf.js",
+    "static/js/787.2ca223aa.chunk.js": "/PCC/static/js/787.2ca223aa.chunk.js",
+    "index.html": "/PCC/index.html",
+    "main.92242592.css.map": "/PCC/static/css/main.92242592.css.map",
+    "main.2b87b2cf.js.map": "/PCC/static/js/main.2b87b2cf.js.map",
+    "787.2ca223aa.chunk.js.map": "/PCC/static/js/787.2ca223aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92242592.css",
+    "static/js/main.2b87b2cf.js"
+  ]
+}
